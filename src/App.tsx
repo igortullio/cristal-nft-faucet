@@ -4,7 +4,7 @@ import { MetamaskLogo } from './components/MetamaskLogo'
 
 import ABI from './abi.json'
 
-const CONTRACT_ADDRESS = '0xdC2bDb9A6571Ec2fb291D6fCD5567d78Fd2C39a4'
+const CONTRACT_ADDRESS = '0x1A07BF27b81528cBA1582a3de001E50aEB45F009'
 
 function App() {
   const [message, setMessage] = useState('')
@@ -38,7 +38,7 @@ function App() {
       <main className="m-auto flex flex-col items-center gap-4 text-center">
         <h1 className="text-6xl font-medium tracking-tight text-gray-900 dark:text-white">Get your Cristal coins!</h1>
         <p className="text-2xl text-gray-500 dark:text-gray-400">
-          Once a day, earn 0.1 coins for free just connecting your MetaMask below.
+          Once a week, earn 0.1 coins for free just connecting your MetaMask below.
         </p>
 
         <button
