@@ -2,6 +2,8 @@
 
 A modern React-based frontend application for a Web3 faucet service, built with TypeScript, Vite, and TailwindCSS.
 
+<img width="1425" alt="image" src="https://github.com/user-attachments/assets/f069458f-0d15-40ce-be65-73cd33f756c4" />
+
 ## 🚀 Features
 
 - Modern React 18 with TypeScript
